@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "$PATH" | tr ':' '\n' | grep -v '^$' | wc -l
-[Got]
+ 
 
 (0 chars long)
 
