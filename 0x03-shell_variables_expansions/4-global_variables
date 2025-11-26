@@ -1,6 +1,2 @@
-source ./4-global_variables
-CC=gcc
-COLORTERM=gnome-terminal
-HOME=/home/user
-PATH=/usr/bin:/bin
-...
+#!/bin/bash
+printenv
